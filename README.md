@@ -13,8 +13,8 @@
 <!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizos13&show_icons=true&theme=gruvbox&cache_seconds=60" alt="Alisa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizos13&layout=compact&theme=gruvbox&cache_seconds=1800" alt="Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizos13&show_icons=true&theme=gruvbox&cache_seconds=10" alt="Alisa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizos13&layout=compact&theme=gruvbox&cache_seconds=60" alt="Programming Languages" />
 </p>
 
 
