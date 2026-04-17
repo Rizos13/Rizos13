@@ -1,23 +1,18 @@
 <!-- Greeting -->
 <h1 align="center">Hi there! </h1>
-
 <!-- Main Information -->
 <p align="center">
-  <strong>I’m Alisa 👋</strong>
+  <strong>I'm Alisa 👋</strong>
 </p>
-
 <p align="center">
   Cyber Security Specialist | Penetration Tester | Python Developer 🔒💻
 </p>
-
 <!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizos13&show_icons=true&theme=gruvbox&cache_seconds=10" alt="Alisa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizos13&show_icons=true&theme=gruvbox&hide_rank=true&count_private=true&include_all_commits=true&cache_seconds=10" alt="Alisa's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizos13&layout=compact&theme=gruvbox&cache_seconds=60" alt="Programming Languages" />
 </p>
-
-
 <!-- Contact Me -->
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
