@@ -1,18 +1,20 @@
 <!-- Greeting -->
-<h1 align="center">Hi there! </h1>
-<!-- Main Information -->
+<h1 align="center">Hi there! 👋</h1>
+
 <p align="center">
-  <strong>I'm Alisa 👋</strong>
+  <strong>I'm Alisa</strong><br>
+  Cyber Security Specialist · Penetration Tester · Python Developer 🔒💻
 </p>
+
+<!-- Tech Stack -->
 <p align="center">
-  Cyber Security Specialist | Penetration Tester | Python Developer 🔒💻
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 </p>
-<!-- GitHub Statistics -->
-<h2 align="center">📊 GitHub Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizos13&show_icons=true&theme=gruvbox&hide_rank=true&count_private=true&include_all_commits=true&cache_seconds=10" alt="Alisa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizos13&layout=compact&theme=gruvbox&cache_seconds=60" alt="Programming Languages" />
-</p>
+
 <!-- Contact Me -->
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
